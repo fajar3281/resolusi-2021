@@ -5,4 +5,4 @@ Rencana di bulan agustus
 3. Belajar PHP Dasar
 4. Belajar Laravel
 5. Tahun ini fokus Backend sampai lancar dulu
-6. Kalo bisa semester 6 udah dapat kerja walaupun part timr :)
+6. Kalo bisa semester 6 udah dapat kerja walaupun part timr
