@@ -4,4 +4,5 @@ Rencana di bulan agustus
 2. Mengerjakan project sederhana dengan Javascript
 3. Belajar PHP Dasar
 4. Belajar Laravel
-5. Tahun ini fokus Backend sampai lancar dulu
+5. Tahun ini fokus Backend sampai lancar 
+6. Semester 6 udah dapat kerjaan
