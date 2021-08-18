@@ -1,0 +1,6 @@
+Rencana di bulan agustus
+
+1. Menyelesaikan course GIT & GITHUB
+2. Mengerjakan project sederhana dengan Javascript
+3. Belajar PHP Dasar
+4. Belajar Laravel
